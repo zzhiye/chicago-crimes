@@ -1,6 +1,6 @@
 # Incidents of Chicago Crimes
 
-![Chicago Crimes Web Map Preview](/img/chicago_crime_2010)
+![Chicago Crimes Web Map Preview](/img/chicago_crime_2010.png)
 
 ## Project Description
 The Incidents of Chicago Crimes web map showcases crimes in Chicago, Illinois from 2010-2020 in two year intervals. By using this web map, users are able to identify areas in Chicago that have reported crimes as well as any patterns that has formed. Lastly, users are able to compare crime incidents from year to year as well as view all crime incidents in Chicago combined together.
